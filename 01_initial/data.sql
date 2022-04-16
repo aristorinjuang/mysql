@@ -1,5 +1,5 @@
 INSERT INTO `customers` VALUES (1, 'John Doe', 'John', 'USA');
-INSERT INTO `customers` VALUES (2, 'Harry Pooter', 'Harry', 'UK');
+INSERT INTO `customers` VALUES (2, 'Harry Potter', 'Harry', 'UK');
 INSERT INTO `customers` VALUES (3, 'Oeray', 'Oeray', 'Borneo');
 INSERT INTO `customers` VALUES (6, 'Budi', 'Budi', 'Indonesia');
 INSERT INTO `customers` VALUES (7, 'Agus', 'Agus', 'Indonesia');
